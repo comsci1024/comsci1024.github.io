@@ -1,6 +1,12 @@
 <figure markdown>
-  ![Image title](./images/title.png){ width="600" }
+  ![Image title](./cs-self-learning/images/title.png){ width="600" }
 </figure>
+# 目录
+
+  - [前言](cs-self-learning/index.md)
+  - [如何使用这本书](cs-self-learning/使用指南.md)
+  - [一个仅供参考的CS学习规划](cs-self-learning/CS学习规划.md)
+
 
 # 前言
 
