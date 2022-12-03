@@ -48,7 +48,7 @@
       - [Coursera: Algorithms I & II](数据结构与算法/Algo)
       - [UCB CS170: Efficient Algorithms and Intractable Problems](数据结构与算法/CS170)
   - 软件工程:
-      - [MIT 6.03] Software Construction](软件工程/6031)
+      - [MIT 6.031: Software Construction](软件工程/6031)
       - [UCB CS169: software engineering](软件工程/CS169)
   - 体系结构:
       - [Coursera: Nand2Tetris](体系结构/N2T)
@@ -56,14 +56,14 @@
       - [UCB CS61C: Great Ideas in Computer Architecture](体系结构/CS61C)
       - [CMU 15-213: CSAPP](体系结构/CSAPP)
   - 操作系统:
-      - [MIT 6.S08] Operating System Engineering](操作系统/MIT6.S081)
+      - [MIT 6.S081: Operating System Engineering](操作系统/MIT6.S081)
       - [UCB CS162: Operating System](操作系统/CS162)
       - [NJU OS: Operating System Design and Implementation](操作系统/NJUOS)
   - 并行与分布式系统:
       - [CMU 15-418/Stanford CS149: Parallel Computing](并行与分布式系统/CS149)
       - [MIT 6.824: Distributed System](并行与分布式系统/MIT6.824)
   - 计算机系统安全:
-      - [UCB CS16] Computer Security](系统安全/CS161)
+      - [UCB CS161: Computer Security](系统安全/CS161)
       - [MIT 6.858: Computer System Security](系统安全/MIT6.858)
   - 计算机网络:
       - [USTC Computer Networking:A Top-Down Approach](计算机网络/topdown_ustc)
