@@ -1,4 +1,4 @@
-![Image title](https://comsci1024.github.io/cs-self-learning/images/title.png){ width="600" }
+![Image title](https://comsci1024.github.io/cs-self-learning/images/title.png)
 
 # 目录
 
