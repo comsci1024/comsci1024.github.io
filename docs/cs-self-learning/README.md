@@ -64,7 +64,7 @@
   - 如何使用这本书: "使用指南.md"
   - 一个仅供参考的CS学习规划: "CS学习规划.md"
   - 必学工具:
-      - 翻墙: "cs-self-learning/必学工具/翻墙.md"
+      - [翻墙](cs-self-learning/必学工具/翻墙.md)
       - Vim: "cs-self-learning/必学工具/Vim.md"
       - Git: "cs-self-learning/必学工具/Git.md"
       - GitHub: "必学工具/GitHub.md"
