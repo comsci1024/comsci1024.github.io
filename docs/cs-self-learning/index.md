@@ -108,7 +108,7 @@
   - 机器学习进阶:
       - [进阶路线图](机器学习进阶/roadmap)
       - [CMU 10-708: Probabilistic Graphical Models](机器学习进阶/CMU10-708)
-      - [Columbia STAT 820] Deep Generative Models](机器学习进阶/STAT8201)
-      - [U Toronto STA 4273 Winter 202] Minimizing Expectations](机器学习进阶/STA4273)
+      - [Columbia STAT 8201: Deep Generative Models](机器学习进阶/STAT8201)
+      - [U Toronto STA 4273 Winter 2021: Minimizing Expectations](机器学习进阶/STA4273)
       - [Stanford STATS214 / CS229M: Machine Learning Theory](机器学习进阶/CS229M)
   - [后记](后记)
