@@ -112,3 +112,23 @@
       - [U Toronto STA 4273 Winter 2021: Minimizing Expectations](机器学习进阶/STA4273)
       - [Stanford STATS214 / CS229M: Machine Learning Theory](机器学习进阶/CS229M)
   - [后记](后记)
+
+
+  <script src="https://giscus.app/client.js"
+        data-repo="comsci1024/giscus"
+        data-repo-id="R_kgDOIjdb2Q"
+        data-category="General"
+        data-category-id="DIC_kwDOIjdb2c4CS5sH"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+请**友善**发布评论!
