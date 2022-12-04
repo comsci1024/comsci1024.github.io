@@ -336,3 +336,25 @@ Berkeley 作为著名开源数据库 postgres 的发源地也不遑多让，[UCB
 - [UC Berkeley EECS Course Map](https://hkn.eecs.berkeley.edu/courseguides): UC Berkeley 的 EECS 培养方案，以课程地图的方式将各门课程的类别和先修关系一目了然地呈现，其中绝大多数课程本书中均有收录。
 - [UC Berkeley CS Course List](https://www2.eecs.berkeley.edu/Courses/CS/): UC Berkeley 的 CS 课程列表。
 - [Stanford CS Course List](https://blog.csdn.net/qq_41220023/article/details/81976967): 斯坦福的 CS 课程列表。
+
+
+
+
+  <script src="https://giscus.app/client.js"
+        data-repo="comsci1024/giscus"
+        data-repo-id="R_kgDOIjdb2Q"
+        data-category="General"
+        data-category-id="DIC_kwDOIjdb2c4CS5sH"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+请**友善**发布评论!

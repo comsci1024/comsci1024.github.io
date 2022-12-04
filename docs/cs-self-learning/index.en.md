@@ -84,3 +84,24 @@ I would like to express my sincere gratitude to all the professors who have made
 ## Want to join as a contributor?
 
 There is a limit to how much one person can do, and this book was written by me under a heavy research schedule, so there are inevitably imperfections. In addition, as I work in the area of systems, many of the courses focus on systems, and there is relatively little content related to advanced mathematics, computing theory, and advanced algorithms. If any of you would like to share your self-learning experience and resources in other areas, you can directly initiate a Pull Request in the project, or feel free to contact me by email ([zhongyinmin@pku.edu.cn](mailto:zhongyinmin@pku.edu.cn)).
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="comsci1024/giscus"
+        data-repo-id="R_kgDOIjdb2Q"
+        data-category="General"
+        data-category-id="DIC_kwDOIjdb2c4CS5sH"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+请**友善**发布评论!
